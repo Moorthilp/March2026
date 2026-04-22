@@ -1,0 +1,9 @@
+Testing:
+To Check Quality of the product and ensure the Functionality  of the Product.
+Software Testing:
+Software testing is a Process of evaluating And verifying a software product or application .what is supposed to do.
+Advantages:
+To Benefit of Testing include Preventing bugs. and  improving Performance.  
+Types of Testing:
+•	Manual Testing
+•	Automatic Testing

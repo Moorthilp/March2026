@@ -1,0 +1,4 @@
+•	Simple programming Language.(if we don’t have a programming language.
+•	It is easy to learn Programming code is simple English language.
+•	Run as Platform independent &OOPS Concept.
+•	OOPS  - Object Oriented Programming Structure.
